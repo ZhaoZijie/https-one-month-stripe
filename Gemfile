@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'rails_12factor', group: :production
 
+gem "figaro"
+
 gem 'bootstrap-sass'
 
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
